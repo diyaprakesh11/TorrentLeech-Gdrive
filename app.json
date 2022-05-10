@@ -14,7 +14,7 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
+  "repository": "https://github.com/diyaprakesh11/TorrentLeech-Gdrive",
   "success_url": "https://t.me/torrentleechgdrivesupport",
   "website": "https://github.com/gautamajay52/TorrentLeech-Gdrive",
   "env": {
