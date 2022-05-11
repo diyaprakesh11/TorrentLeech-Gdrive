@@ -4,5 +4,4 @@ aria2p
 hachoir
 Pillow
 tgcrypto
-git+https://github.com/FaArIsH/youtube-dl
 hurry.filesize
